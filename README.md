@@ -10,7 +10,7 @@ Javascript : Adds  interactivity like form validation,password visibility toggle
 
 
 # SIGN-UP FORM
-Description: A form that collects user information to creates a new account in the system.
+# Description: A form that collects user information to creates a new account in the system.
 Key Points:
 HTML: creates input fields for name,email,password etc. along with buttons for submission,
 CSS : Enhance their User experience with attractive designs and layouts,
